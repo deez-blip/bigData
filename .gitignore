@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Data
+data/
+!data/.gitkeep
+
+# Mac
+.DS_Store
